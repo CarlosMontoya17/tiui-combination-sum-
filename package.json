@@ -10,6 +10,7 @@
     "JavaScript"
   ],
   "author": "Alejandro López Ramírez <alejandro.lopez@tiui.mx>",
+  "contributors": ["Carlos Uriel Montoya Gutiérrez <carlosdeveloper.info@gmail.com>"],
   "license": "MIT",
   "devDependencies": {
     "husky": "^4.2.1",
